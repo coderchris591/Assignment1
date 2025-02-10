@@ -5,7 +5,7 @@
 # Programmer Names: Chris Martinez, Zachariah Kennedy
 # Programmer Emails: chrisrmartinez@lewisu.edu, zachariahckennedy@lewisu.edu
 # Course number and section number:SP25-CPSC-44000-LT1
-# Date submitted: XX/XX/XXXX
+# Date submitted: 2/16/2025
 # What the program does: This program searches for near misses in Fermat’s Last Theorem of the form x^n + y^n ≈ z^n. Essentially, the program is a tool that can be used for finding instances
 #                        where x^2 + y^2 almost equals another perfect power z^n, highlighting those specific instances.
 # Resources used: N/A
